@@ -29,6 +29,7 @@ github_username:  jekyll
 
 # Build settings
 theme: tale
+remote_theme: tale
 
 author:
   name: Panhoo
