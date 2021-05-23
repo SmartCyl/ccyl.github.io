@@ -28,8 +28,6 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: tale
-remote_theme: tale
 
 author:
   name: Panhoo
@@ -39,10 +37,12 @@ paginate: 5
 
 disqus: jekyll-tale
 
+remote_theme: chesterhow/tale
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # include:
 #   - _pages
